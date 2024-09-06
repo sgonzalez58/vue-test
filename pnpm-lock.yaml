@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       '@vue/compiler-sfc':
-        specifier: workspace:*
+        specifier: ^3.0.0
         version: link:packages/compiler-sfc
       csstype:
         specifier: ^3.1.0
